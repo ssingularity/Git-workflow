@@ -16,4 +16,4 @@
 * Isolation of experimental development.
 * More efficient collaboration.
 ## Reference
-* [Learn more about Git workflow (Git -workflow- tutorial)](https://segmentfault.com/a/1190000002918123#articleHeader10)
+*   [Learn more about Git workflow (Git -workflow- tutorial)](https://segmentfault.com/a/1190000002918123#articleHeader10)
